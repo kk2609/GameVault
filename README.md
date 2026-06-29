@@ -11,7 +11,7 @@ GameVault is a premium gaming web application where users can discover the lates
 >Live Preview https://gamevaault.netlify.app/
 
 ```
-/screenshots/home.png
+
 ```
 
 ---
@@ -75,11 +75,7 @@ src
 
  🚀 Installation
 
-Clone the repository
 
-bash
-git clone https://github.com/yourusername/gamevault.git
-```
 
 Move inside project
 
