@@ -1,16 +1,196 @@
-# React + Vite
+ 🎮 GameVault
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **Modern Gaming Marketplace & Discovery Platform** built with **React, Vite, Tailwind CSS, Framer Motion, and RAWG API**.
 
-Currently, two official plugins are available:
+GameVault is a premium gaming web application where users can discover the latest games, explore gaming consoles, compare titles, manage their wishlist, and browse gaming accessories through a modern, responsive interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+ 📸 Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+>Live Preview https://gamevaault.netlify.app/
 
-## Expanding the ESLint configuration
+```
+/screenshots/home.png
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+ ✨ Features
+
+ 🎮 Browse thousands of games
+ 🔍 Real-time game search
+ 🎯 Genre filtering
+ 📄 Detailed game information
+ 🕹️ Console collection with specifications
+ 🎧 Gaming accessories store
+ ❤️ Wishlist with Local Storage
+ 🔄 Compare up to 4 games
+ 🥽 VR Gaming section
+ ❓ FAQ page
+ 🌙 Dark / Light Theme
+ 📱 Fully Responsive Design
+ ✨ Smooth Scroll Animations using Framer Motion
+
+---
+
+ 🛠 Tech Stack
+
+ Frontend
+
+ React 18
+ Vite
+ Tailwind CSS
+ Framer Motion
+ React Router DOM
+ Axios
+
+ API
+
+ RAWG Video Games Database API
+
+ Fonts
+
+ Orbitron
+ Poppins
+
+---
+
+ 📂 Folder Structure
+
+```bash
+src
+│
+├── Api
+├── Components
+├── Context
+├── Pages
+├── Routes
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+
+
+ 🚀 Installation
+
+Clone the repository
+
+bash
+git clone https://github.com/yourusername/gamevault.git
+```
+
+Move inside project
+
+```bash
+cd gamevault
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Create `.env`
+
+```env
+VITE_RAWG_API_KEY=YOUR_API_KEY
+```
+
+Run project
+
+```bash
+npm run dev
+```
+
+Build project
+
+```bash
+npm run build
+```
+
+---
+
+ 🌐 Pages
+
+ Home
+ Games
+ Game Details
+ Consoles
+ Console Details
+ Accessories
+ Wishlist
+ Compare
+ VR Gaming
+ FAQ
+ About
+ Contact
+ 404 Page
+
+---
+
+ 📦 Major Components
+
+ Header
+ Footer
+ GameCard
+ ConsoleCard
+ AccessoryCard
+ Theme Toggle
+ Animation Wrapper
+ Loading Skeleton
+ Breadcrumb
+ Scroll To Top
+
+---
+
+ 🎨 UI Highlights
+
+ Premium Gaming Design
+ Responsive Layout
+ Smooth Animations
+ Sticky Navigation
+ Modern Cards
+ Hover Effects
+ Dark & Light Theme
+
+---
+
+ 📱 Responsive
+
+Optimized for
+
+ Desktop
+ Laptop
+ Tablet
+ Mobile
+
+---
+
+ 
+
+---
+
+ 🙏 Acknowledgements
+
+ RAWG API
+ React
+ Vite
+ Tailwind CSS
+ Framer Motion
+ React Icons
+
+---
+
+ 👨‍💻 Author
+
+Krish Koshti
+
+GitHub: https://github.com/yourusername
+
+LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+ ⭐ If you like this project, don't forget to Star the repository!
