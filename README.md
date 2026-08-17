@@ -47,7 +47,7 @@ GameVault is a premium gaming web application where users can discover the lates
 
  API
 
- RAWG Video Games Database API
+ IGDB Games Database API
 
  Fonts
 
